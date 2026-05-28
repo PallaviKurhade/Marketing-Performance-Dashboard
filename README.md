@@ -2,7 +2,9 @@
 
 An interactive Power BI dashboard designed to analyze marketing campaign performance across multiple channels, products, and regions. This project provides actionable business insights using KPI tracking, revenue analysis, ROI measurement, and trend visualization
 .
-🚀 Project Highlights
+🚀 Project Highlights:-
+
+
 ✔ Revenue & Spend Analysis
 ✔ ROI Tracking
 ✔ Conversion Performance
@@ -11,7 +13,9 @@ An interactive Power BI dashboard designed to analyze marketing campaign perform
 ✔ Quarterly Trend Monitoring
 ✔ Interactive Dashboard Filters
 
-📌 Business Proble
+📌 Business Problem:-
+
+
 Marketing teams often struggle to identify:
 Which channel generates the highest revenue
 Where marketing budget is being overused
