@@ -1,9 +1,9 @@
 # Marketing Performance Analysis Dashboard
 
-An interactive Power BI dashboard designed to analyze marketing campaign performance across multiple channels, products, and regions. This project provides actionable business insights using KPI tracking, revenue analysis, ROI measurement, and trend visualization
-.
-🚀 Project Highlights:-
+An interactive Power BI dashboard designed to analyze marketing campaign performance across multiple channels, products, and regions. This project provides actionable business insights using KPI tracking, revenue analysis, ROI measurement, and trend visualization.
 
+
+🚀 Project Highlights:-
 
 ✔ Revenue & Spend Analysis
 ✔ ROI Tracking
@@ -15,7 +15,6 @@ An interactive Power BI dashboard designed to analyze marketing campaign perform
 
 📌 Business Problem:-
 
-
 Marketing teams often struggle to identify:
 Which channel generates the highest revenue
 Where marketing budget is being overused
@@ -23,40 +22,49 @@ Which products perform best
 Which regions deliver better ROI
 This dashboard helps solve these challenges through data-driven visualization and analysis.
 
-📈 Key KPIs
+📈 Key KPIs:
 
-KPI              Value
-Total Revenue    1.04M
-Total Clicks     56K
-Conversions      2531
-Total Spend      0.26M
-Avg ROI          4.48
-Impressions      570K
-Avg CPC          6.57
-Avg CPR          13.86%
+KPI                                                             Value
+Total Revenue                                                   1.04M
+Total Clicks                                                     56K
+Conversions                                                      2531
+Total Spend                                                      0.26M
+Avg ROI                                                          4.48
+Impressions                                                      570K
+Avg CPC                                                          6.57
+Avg CPR                                                          13.86%
 
 📊 Dashboard Features
 
-🔹 Channel Performance Analysis
-Revenue comparison by marketing channel
-Spend vs Revenue tracking
-Quarterly performance monitoring
+🔹 Channel Performance Analysis:-
 
-🔹 Product Performance
-Revenue contribution by product
-Product-wise comparison
+Revenue comparison by marketing channel.
 
-🔹 Regional Insights
-ROI analysis by region
-Revenue trends across quarters
+Spend vs Revenue tracking.
 
-🔹 Interactive Filtering
+Quarterly performance monitoring.
+
+🔹 Product Performance:- 
+
+Revenue contribution by product.
+
+Product-wise comparison.
+
+
+🔹 Regional Insights:-
+
+ROI analysis by region.
+
+Revenue trends across quarters.
+
+🔹 Interactive Filtering:- 
+
 Users can filter dashboard by:
 Date Range
 Product
 Marketing Channel
 
-📉 Visualizations Used
+📉 Visualizations Used:- 
 
 KPI Cards
 Waterfall Chart
@@ -68,15 +76,17 @@ Slicers & Filters
 
 🛠 Tools & Technologies
 
-Power BI
-DAX
-Data Modeling
-Data Cleaning
-Data Visualization
+Power BI  |
+DAX  | 
+Data Modeling  |
+Data Cleaning  |
+Data Visualization  |
 Excel Dataset
 
-📐 DAX Measures
+📐 DAX Measures:- 
+
 DAX
+
 Total Revenue = SUM(Marketing[Revenue])
 
 Total Spend = SUM(Marketing[Spend])
