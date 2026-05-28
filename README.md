@@ -101,3 +101,15 @@ Improve campaign performance
 Track ROI effectively
 Make faster data-driven decisions
 Identify high-performing products and regions
+
+
+Screenshot / Demos:
+Show Dashboard:
+<img width="1146" height="658" alt="Marketing Performance DB" src="https://github.com/user-attachments/assets/f2f1327c-9208-43ec-af68-47cee04651ea" />
+
+
+
+
+
+
+
